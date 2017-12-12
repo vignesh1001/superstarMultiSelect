@@ -1,4 +1,4 @@
-# superstarMultiSelect
+# superstarmultiselect
 
 
 test
